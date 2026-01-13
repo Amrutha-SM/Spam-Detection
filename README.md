@@ -21,5 +21,7 @@ It classifies a given message as **Spam** or **Not Spam (Ham)** based on learned
 - Natural Language Processing (NLP)
 
 ---
+To run the file run this in terminal:
+streamlit run <file directory/file name>
 
 
